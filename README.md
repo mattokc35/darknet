@@ -1,3 +1,11 @@
+# Welcome to the YOLO v4 x IBM PlasticNet object detection repository!
+
+This is a forked repository from https://github.com/AlexeyAB/darknet intended to be used as part of IBM Space Tech's PlasticNet object detection project.
+
+Click here to download our pre-annotated 7 class dataset: 
+
+Click here for a link to our pre-trained YOLOv4 weights: 
+
 # Yolo v4, v3 and v2 for Windows and Linux
 
 ## (neural networks for object detection)
