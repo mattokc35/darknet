@@ -4,7 +4,7 @@
 
 This is a forked repository from https://github.com/AlexeyAB/darknet intended to be used as part of IBM Space Tech's PlasticNet object detection project.
 
-Click here to download our pre-annotated 7 class dataset: 
+Click here to download our pre-annotated 7 class dataset: https://drive.google.com/file/d/1sHi9tJpPMRoLg_0Cui7fWOYr7jIdA6WB/view?usp=sharing
 
 Click here for a link to our pre-trained YOLOv4 weights: 
 
