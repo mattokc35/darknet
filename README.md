@@ -1,4 +1,6 @@
-# Welcome to the YOLO v4 x IBM PlasticNet object detection repository!
+# YOLOv4 DarKNET + IBM PlasticNet (SpaceTech)
+
+## Welcome to the YOLO v4 + IBM PlasticNet object detection repository!
 
 This is a forked repository from https://github.com/AlexeyAB/darknet intended to be used as part of IBM Space Tech's PlasticNet object detection project.
 
